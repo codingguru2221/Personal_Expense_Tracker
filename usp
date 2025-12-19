@@ -1,0 +1,66 @@
+USP – Personal Expense Tracker (Web Application)
+
+🟢 USP 1: High-Transaction Business-Focused Design
+
+    Unlike basic expense trackers, this system is designed for businessmen, MP Online centers, and high-transaction users.
+
+    Why unique?
+
+    Most projects → personal daily expenses
+
+    my project → business-level transactions
+
+🟢 USP 2: Simulated UPI Environment (Without Real APIs)
+
+    The application provides a demo UPI transaction simulation engine to mimic real payment flows without accessing real UPI APIs.
+
+    Why unique?
+
+    Legal & RBI compliant
+
+    Shows problem-solving mindset
+
+    Very few minor projects do this
+
+🟢 USP 3: Multi-Account Expense Tracking
+
+    Users can manage multiple linked demo accounts (bank, wallet, cash, loan) from a single dashboard.
+
+    Why unique?
+
+    Normal projects → single account
+
+    my project → account-wise analytics
+
+🟢 USP 4: Loan & EMI Expense Analytics
+
+    Integrated loan and EMI tracking module with paid vs remaining analysis.
+
+    Why unique?
+
+    Loan tracking is rare in minor projects
+
+    Business relevance high
+
+🟢 USP 5: Time-Based Smart Reports
+
+    Expenses can be analyzed day-wise, month-wise, and year-wise with date & time accuracy.
+
+    Why unique?
+
+    Shows data-handling & reporting skills
+
+    Useful for audits & planning
+
+🟢 USP 7: Layered Security Model
+
+    The application uses multi-level security including app-level PIN, account-level PIN, and encrypted data storage.
+
+    Why unique?
+
+    Security-first approach
+
+🟢 tack stack
+    core java + spring boot (backend)
+    react js (frontend)
+    my sql (data base)
