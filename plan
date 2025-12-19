@@ -1,0 +1,32 @@
+PERSONAL EXPENSE TRACKER
+___MainFunctions___
+    --HOME page--
+        . contect no linked bank accounts 
+            |-click the selected accounts
+                |- use encruption
+                    |- enter the account pin if correct proccess is next else enter wrong password retry and not enter the next proccess
+                |-show EXPENSE TRACKER with timing and date 
+                    |-year
+                    |-month
+                    |-day
+                |-calculate the expenses according to user selection 
+        . search icon (search all )
+        . loan transactions
+            |-show loans  bank accounts
+            |-money all money expense about loan 
+            |-calculate the transactions (all)
+        
+    --CREATE ACCOUNT--
+        . user name 
+        . contectnumber linked bank accounts // 
+        . gmail
+        . encruption 
+            opening app
+            |-finger print 
+            |-code 
+        . only sim inserted user is creating account 
+
+    --LOGIN --
+        . user name 
+        . contect no 
+        
